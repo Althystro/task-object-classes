@@ -30,7 +30,7 @@ public class Course {
 
     //
     public String getInstructor() {
-        return instructor.toString();
+        return instructor;
     }
 
     public void setInstructor(String newInstructor) {
